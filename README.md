@@ -1,6 +1,7 @@
 ### Hello World! I'm Aril 👋
+Informatics Engineering Student at Tadulako University | Mobile and Web Development Enthusiast <br/>
 ![aril](img/github-header-image.png)
-Informatics Engineering Student at Tadulako University | Mobile dan WEB Development Enthusiast
+
 
 
 
