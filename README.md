@@ -16,9 +16,10 @@ Informatics Engineering Student at Tadulako University | Mobile dan WEB Developm
 ![](https://github-readme-stats.vercel.app/api?username=aaril011&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaril011&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-#### want to play a game?
+
+
+#### Want a play game?
 <img src="https://raw.githubusercontent.com/aaril011/aaril011/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
